@@ -1,0 +1,24 @@
+/***************************************************
+	Widget plugin - styling for cta box
+***************************************************/
+
+.calltoaction_cta_widget .cta {
+	clear: both;
+	width: 96%;
+	margin: 10px 0;
+	padding: 0.8em 2%;
+	font: arial, sans-serif;
+	font-size: 1.4rem;
+	text-align: center;
+	line-height: 1.8rem;
+	background-color: #5660a8;
+	color: #fff;
+}
+.cta a:link,
+.cta a:visited {
+	text-decoration: none;
+}
+.cta a:hover,
+.cta a:active {
+	text-decoration: underline;
+}
